@@ -9,6 +9,8 @@ theLiuk23/theLiuk23 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-17 yo student. Self-learner of C# and Python3.x.
+I'm a 17 yo student, autodidact of C# and Python3.x.
+I live in a small town of Italy.
+
 If you need a program you can find me on fiverr at this link: https://www.fiverr.com/users/liuk23/
 THANK YOU!
